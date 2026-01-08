@@ -1,0 +1,5 @@
+{
+  "name": "CircuitLab",
+  "description": "A comprehensive circuit simulation and learning platform with sequential question unlocking, auto-evaluation, and an admin dashboard for content management.",
+  "requestFramePermissions": []
+}
